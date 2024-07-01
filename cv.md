@@ -7,3 +7,11 @@ Frontend developer с более чем 2-летним профессионал�
 ## Навыки
 Языки: JavaScript, Php, Python
 Frontend: Vue.js, Nuxt.js, React.js, Angular, Bootstrap, Ant design, Tailwind, Bootstrap, Vuetify, HTML5, Sass/Less
+## Примеры кода
+``` js
+var getCv = function (cv) {
+  return cv;
+};
+
+console.log(getCv("Cool CV"));
+```
