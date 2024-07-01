@@ -16,8 +16,8 @@ var getCv = function (cv) {
 console.log(getCv("Cool CV"));
 ```
 ## Опыт работы
-Airba Fintech - airba.kz
-Bugin holding
+Airba Fintech - airba.kz, 
+Bugin holding, 
 transavia.kz
 ## Образование
 Suleyman Demirel University
